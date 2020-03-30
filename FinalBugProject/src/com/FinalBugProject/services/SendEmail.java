@@ -19,7 +19,7 @@ public class SendEmail {
 	public void sendEmail(String subject,String email,String body) {
 		
 			final String fromEmail = "bugzproexec@gmail.com";
-			final String password = "98860@das";
+			final String password = "";
 			final String toEmail = email;
 			 Properties prop = new Properties();
 				prop.put("mail.smtp.host", "smtp.gmail.com");
@@ -55,7 +55,7 @@ public class SendEmail {
 		            		"                <p style=text-align:center;font-family:montserrat;font-size:20px;color:#4a4a4a;font-weight:500;>"+body+"</p>\r\n" + 
 		            		"\r\n" + 
 		            		"                    <div style=margin-top:30px>\r\n" + 
-		            		"                        <h4 style=font-family:poppins;font-weight:400;color:#a9a9a9;>Copyright © 2020 | BUG Z PRO</h4>\r\n" + 
+		            		"                        <h4 style=font-family:poppins;font-weight:400;color:#a9a9a9;>Copyright Â© 2020 | BUG Z PRO</h4>\r\n" + 
 		            		"                        <p style=font-weight:500;font-family:montserrat;font-size:14px;color:#5f6368;>Replies are not monitored.</p>\r\n" + 
 		            		"                        <p style=font-weight:500;font-family:montserrat;font-size:12px;color:#5f6368;>Email sent by BugZPro Admin.</p>\r\n" + 
 		            		"                    </div>\r\n" + 

@@ -21,7 +21,7 @@ BugZPro is a state of the art bug reporting software developed using Java/J2EE w
  <br> </br>
 	1. Create a database in Mysql (from localhost/phpmyadmin/MySql Workbench(Preferred)).
 	<br> </br>
-	2. Download the project and import in Eclipse.
+	2. Download the project and import in Eclipse.<br></br>
   3. Tomcat / Glassfish server must be installed in the local machine to run the application.
 	<br> </br>
 

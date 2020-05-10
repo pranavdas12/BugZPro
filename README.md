@@ -27,7 +27,7 @@ BugZPro is a state of the art bug reporting software developed using Java/J2EE w
 
 # Contact :
 
- <p>mailto:atom.workforce@gmail.com</p>
+ <p>mailto:workforceatom@gmail.com</p>
 
 # MIT License
 <pre>Copyright (c) 2020 Pranav N Das
